@@ -1,0 +1,59 @@
+body{
+	background-image: url("../images/img3.jpg");
+}
+
+.container{
+	padding:40px;
+	margin:40px auto;
+	background-image: url("../images/img6.jpg");
+	background-size: cover;
+	height:550px;
+}
+.sub-section{
+	margin:10px;
+	padding:20px;	
+}
+h3{color:white;
+font-size:40px;}
+
+#tag{
+	font-size: 20px;
+	color:white;
+}
+.imageloss{
+	width: 300px;
+	height:300px;
+}
+#test{	
+	color:black;
+	border:1px solid black;
+	 height:50px; 
+    width:100px; 
+    margin: -20px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+}
+#test:hover{
+	background-color: green;
+}
+.answer:hover{
+	background-color: pink;
+	border:1px solid black;    
+	padding:10px;	
+}
+.timer-p{
+	font-size:15px;
+	color:white;
+}
+
+.question{
+	font-size: 30px;
+	color:black;
+}
+
+.answer{
+	font-size: 20px;
+	font-weight: 100px;
+	text-align: center;
+}
